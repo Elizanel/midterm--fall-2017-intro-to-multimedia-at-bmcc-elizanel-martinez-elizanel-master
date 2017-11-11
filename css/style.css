@@ -3,12 +3,16 @@
 h1{
   font-family: 'Playfair Display', serif;
   font-size:35px
-
+}
+h1{
+  color:Orange
+  padding: 1.0rem 
 }
 
 h2{
   font-family: 'Playfair Display', serif;
   font-size:20px
+  color: Darkblue
 }
 h3{
   font-family: 'Playfair Display', serif;
@@ -18,4 +22,8 @@ h3{
 li,p, ul {
   font-family: 'Source Sans Pro', sans-serif;
   font-size: 15px
+}
+
+body {
+  background:gainsboro
 }
