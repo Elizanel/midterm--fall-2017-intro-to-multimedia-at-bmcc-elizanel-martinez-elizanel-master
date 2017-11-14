@@ -3,35 +3,48 @@
 h1{
   font-family: 'Playfair Display', serif;
   font-size:35px;
+  color: #000000
+}
+h1,h2{
+  color:#000000
 }
 
-h1{
-  color:darkblue;
+header{
+  color:#black;
   padding: 1.0rem;
 }
 
 h1{
   line-weight: bold;
+  color: #000080
 }
 
 h1{
   text-align: center;
 }
 
-h1{
-  border: 2px solid #000080;
-border-radius: 20px;
-
-}
-
-h1,h2,h3,p{
-  line-height:150%;
+p,h3,section,li {
+      width: 200px;
+      border: 30px solid #000080;
+      padding: 50px;
+      margin: 50px;
+  text-align:center;
+  line-height: 150%;
 }
 
 h2{
   font-family: 'Playfair Display', serif;
   font-size:20px;
-  color: orange;
+  color: #000080;
+  border-width: thin;
+  border-style: solid;
+  padding-top: 10px;
+  padding-bottom: 5px;
+  margin-top: 5px;
+  margin-bottom: 10px;
+  text-align: center;
+  box-shadow: 0 0 20px rgb(161,205,212);
+  float:center;
 }
 
 h3{
